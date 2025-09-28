@@ -305,3 +305,4 @@ yonkis
 pegado
 pillado
 triposo
+cordero
