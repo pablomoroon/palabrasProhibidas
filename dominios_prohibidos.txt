@@ -1,2 +1,3 @@
-pornhub.com
-https://es.wikipedia.org/
+example.com
+example.org
+testsite.local
