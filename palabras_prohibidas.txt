@@ -1,28 +1,22 @@
-# 🚫 Insultos / descalificaciones
+🚫 Insultos / descalificaciones (ampliada)
+
 gilipollas
 idiota
-imbecil
 imbécil
 capullo
-estupido
 estúpido
 subnormal
 tonto
 retrasado
 pendejo
 baboso
-cabron
 cabrón
-mierda
 mierdoso
 puto
 puta
-putilla
 zorra
 perra
-maricon
 maricón
-maricona
 marica
 hijo de puta
 culiao
@@ -31,58 +25,83 @@ pelotudo
 tarado
 fracasado
 asqueroso
-malparido
 caraculo
 chupapollas
 soplapollas
-mamon
 mamón
 parguela
-gil
 lameculos
-inutil
 inútil
-prigado
-babosa
-subnormales
+pringado
 tontaco
-tontita
 cagón
-cagona
-tontuelo
 cretino
-imbéciles
-idiotas
-tarados
+cararrota
+cara de culo
+cabezahueca
+cenutrio
+gil
+mendrugo
+payaso
+payasa
+patán
+patética
+petardo
+puerco
+rastrero
+rata inmunda
+sabandija
+sinvergüenza
+tolai
+zoquete
+zopenco
+zángano
+lerdo
+bocazas
+bocachancla
+cagueta
+corrupto
+desgraciado
+imbecilazo
+malnacido
+malparido
+mindundi
+mierdecilla
+mierder
+papanatas
+pelmazo
+pelma
+sabandija
+tarugo
+tontaina
+tontolaba
+tontucio
+vago
+vulgarazo
 
-# 🔞 Sexual / porno explícito
+🔞 Sexual / porno explícito (ampliada)
+
 porno
-pornografia
+pornografía
 pornográfico
-pornografico
 pornhub
 redtube
 xvideos
 xnxx
 brazzers
 onlyfans
+chaturbate
 camgirl
 camsex
-chaturbate
 escort
 prostituta
 prostitutas
-putas
+puticlub
 striptease
 hentai
-milf
 incesto
 zoofilia
 bestialidad
-tranny
-shemale
-travesti
-transa
 dildo
 vibrador
 consolador
@@ -94,29 +113,19 @@ sadomaso
 orgasmo
 orgasmos
 orgía
-orgia
+orgías
 gangbang
-gang
-trío
-trio
-sexo
-sexual
-sexuales
-follar
-folla
-follando
-follé
-folló
-follas
-follamos
-follan
-coger
-cogiendo
-coges
-cogemos
-cogen
-cogida
-cogidas
+sexo anal
+sexo oral
+sexo grupal
+sodomía
+cunnilingus
+felación
+mamada
+mamadas
+mamar
+chuparla
+chupar pito
 paja
 pajas
 hacerse una paja
@@ -125,92 +134,110 @@ masturbarse
 masturbación
 masturbaciones
 masturbándose
-chupar
-chupando
-chupas
-chupármela
-chúpamela
 polla
 pollas
 pollón
-pollones
 coño
-chocho
-chochete
-concha
+chochito
+vagina
+vaginal
+vulva
+clítoris
 verga
-vergón
-vergas
-teta
+vergazas
 tetas
-tetona
 tetazas
-pecho
-pechos
+tetona
 pezón
 pezones
+nalgas
 culo
-culos
 culazo
 trasero
-nalgas
-cachetes
 anal
-orales
 oral
-penetracion
-penetración
+penetación anal
+penetración vaginal
 penetrar
-penetrando
-cunnilingus
-felacion
-felación
-mamada
-mamadas
-mamar
-mami
-chupones
-lametazo
-lamer
-beso negro
-sodomía
-sexo grupal
-orgías
-pete
-petear
-tirar
-tirarse
-tirándoselo
+eyaculación
+corrida
+correrse
+fisting
+deepthroat
+doggy style
+misionero sexual
+pene
+pito
+glande
+escroto
+testículos
+semen
+leche (semen)
+lactancia erótica
+sumisión sexual
+dominación sexual
+spanking
+sadomasoquismo
+roleplay sexual
+fantasía sexual
+ninfómana
+ninfomanía
+libido alta
+placer sexual
+desnudo integral
+desnudos
+desnudarse
+desvirgar
+virginidad (contexto sexual)
+pornografía amateur
+webcam sexual
+pack (contenido sexual)
+pack nudes
+nudes
+sexting
+tetonas
+culonas
 
-# 🎰 Apuestas / juegos de azar
+🎰 Apuestas / juegos de azar (ampliada)
+
 apuesta
 apuestas
 apostar
 apostando
 aposté
-apostó
-apostado
+apuestas deportivas
+casa de apuestas
 casino
+casino online
 tragaperras
-tragamoneda
+tragaperras online
 slots
+slot machine
 jackpot
 póker
 poker
 ruleta
 blackjack
+baccarat
 quiniela
 lotería
-loteria
+lotería primitiva
+bonoloto
+euromillones
 bingo
-keno
 rasca y gana
-sorteo
-jackpot
-naipes
-dados
-cartas
-bet
+raspadita
+parley
+combinada
+handicap
+over/under
+moneyline
+odds
+cuota de apuesta
+tipster
+bankroll
+cashout
+staking
 bet365
 codere
 bwin
@@ -219,91 +246,93 @@ williamhill
 luckia
 jokerbet
 marathonbet
-apuestas deportivas
-jugar dinero
-jugarse pasta
-gamebet
 888casino
-casino online
-tragaperras online
-quinielas
-megajackpot
+pokerstars
+betfair
+betway
+kirolbet
+pastón apuestas
 
-# ⚠️ Drogas / sustancias
-coca
+⚠️ Drogas / sustancias (ampliada)
+
 cocaína
-cocaina
 perico
 farlopa
-nevada
-blanca
-merca
+crack
+piedra (crack)
+metanfetamina
+meta (metanfetamina)
+cristal (metanfetamina)
+anfetamina
+anfetas
+mdma
+éxtasis
+lsd
+ácido lisérgico
+ketamina
+keta
+opio
+opiáceos
+morfina
+codeína
+oxycodona
+oxicodona
+oxycodone
+fentanilo
+heroína
+brown sugar (heroína)
+speedball
+benzodiacepinas
+alprazolam
+xanax
+clonazepam
+rivotril
+barbitúricos
+poppers
+nitrito de amilo
+ayahuasca
+dmt
+psilocibina
+setas alucinógenas
+hongos alucinógenos
+peyote
+mescalina
+salvia divinorum
+kratom
+khat
+hachís
+chocolate (hachís)
+cannabis
 marihuana
-maría
-mariguana
 weed
 porro
 porros
 canuto
-cannabis
-churro
-hachís
-hachis
-grifa
-chocolate
-hierba
-hierbitas
-fumeta
-fumado
-fumarse un porro
-fumeta
-fumetas
-fumona
-heroína
-heroina
-chiva
-brown sugar
-speedball
-crack
-cristal
-cristalitos
-metanfetamina
-metas
-meta
-anfetamina
-anfetas
-pastillas
-pastis
-tripis
-ácido
-acido
-lsd
-mdma
-éxtasis
-extasis
-ketamina
-keta
-opio
-opiacos
-roxys
-oxycodona
-oxycodone
-morfina
-poppers
-ayahuasca
-setas mágicas
-setas alucinógenas
-hongos
-peyote
+blunt
+cogollo
+resina (cannabis)
+bho (butane hash oil)
+dabs
+wax
+shatter
+rosin
+vape thc
+cartucho thc
+aceite de cannabis
+gominolas thc
+space cake
+microdosis (psicodélicos)
+trip (psicodélico)
 colocón
 colocarse
-drogado
-drogarse
-pasado
+pegado (droga)
 yonki
-yonkis
-pegado
-pillado
-triposo
-cordero
-moron
+rehilete (ketamina/mezclas)
+ketazolam (uso recreativo)
+dxm (dextrometorfano recreativo)
+nitrosos (gas de la risa)
+gas de la risa
+lean (jarabe codeína)
+purple drank
+roxys (oxicodona)
+oxys (oxycodona)
